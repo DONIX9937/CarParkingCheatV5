@@ -1,4 +1,4 @@
-gg.alert("🚗 Car Parking Cheat Script 🚗\n\nАвтор: Doni999\nВерсия: 2.0")
+gg.alert("🚗 Car Parking Cheat 🚗\n\nАвтор: Doni999\nВерсия: 2.0")
 
 -- Эпичная анимация загрузки
 function loadingAnimation()
